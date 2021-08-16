@@ -127,7 +127,6 @@
 - http://www.hackingarticles.in/comprehensive-guide-on-hydra-a-brute-forcing-tool/ hydra 使用手册
 - https://www.gitbook.com/book/t0data/burpsuite/details burpsuite 实战指南
 - https://zhuanlan.zhihu.com/p/26618074 Nmap 扩展脚本使用方法
-- https://somdev.me/21-things-xss/ XSS 的 21 个扩展用途
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/ sql 注入 sheet 表
 - https://sqlwiki.netspi.com/ 你要的 sql 注入知识点都能找到
 - https://github.com/kevins1022/SQLInjectionWiki 一个专注于聚合和记录各种 SQL 注入方法的 wiki
@@ -142,7 +141,6 @@
 
 - https://book.yunzhan365.com/umta/rtnp/mobile/index.html 网络安全科普小册子
 - http://sec.cuc.edu.cn/huangwei/textbook/ns/ 网络安全电子版教材。中传信安课程网站
-- https://mitre.github.io/attack-navigator/enterprise/ mitre 机构 att&ck 入侵检测条目
 - https://github.com/danielmiessler/SecLists 表类型包括用户名，密码，URL，敏感数据模式，模糊测试负载，Web shell 等
 - https://github.com/GitGuardian/APISecurityBestPractices api 接口测试 checklist
 - https://github.com/ym2011/SecurityManagement 分享在建设安全管理体系、ISO27001、等级保护、安全评审过程中的点点滴滴
@@ -168,7 +166,6 @@
 ## <span id="head6"> 学习靶场</span>
 
 - https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/ 124 个合法的可以练习 Hacking 技术的网站
-- https://www.zhihu.com/question/267204109 学 web 安全去哪里找各种各样的靶场？
 - https://www.vulnhub.com 许多 ctf 靶机汇总
 - https://www.wechall.net 世界知名 ctf 汇总交流网站
 - https://www.xssgame.com 谷歌 XSS 挑战
