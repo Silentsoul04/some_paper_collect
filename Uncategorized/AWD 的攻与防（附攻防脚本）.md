@@ -22,7 +22,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/TegOSv0yja6ceXelicaeCYoVN1LwSl6KPW7WFyUq9K6sTuvfXhwOjNkHMyhYBnnqr9ialqgYcrQ4NdhibaXEGF2YA/640?wx_fmt=png)
 
-```
+```python
 # -*- coding: utf-8 -*-#
 # awd文件监控脚本
 # author：说书人

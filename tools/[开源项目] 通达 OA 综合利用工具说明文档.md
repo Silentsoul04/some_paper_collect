@@ -60,8 +60,3 @@ SQL 注入 POC: 2 个
 
 https://github.com/xinyu2428/TDOA_RCE/releases
 
-**本工具仅供安全测试人员运用于授权测试, 禁止用于未授权测试, 违者责任自负**
-
-说明: 文章不保证内容完全准确, 文中如有错误还请多多指出, 共同进步.
-
-![](https://mmbiz.qpic.cn/mmbiz_png/TezRTl7qZQRFbicwy7PI0XAUQwlLyeNEmksCasNVBkAwAU34mA0oDNRQVYhgDyEgicLh4v4BkGRQ90DjU9dVt4lg/640?wx_fmt=png)
