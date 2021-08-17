@@ -506,6 +506,4 @@ pty;pty.spawn("/bin/bash")'
 
 end
 
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/RXib24CCXQ0ibeFKBD4IxCbXZ8sQYhY2ye37BRMehWvR8tULkTFjJbwburmPMlhJaFxFh0vPicbxCvH6Krib40SsHQ/640?wx_fmt=png)
+ 

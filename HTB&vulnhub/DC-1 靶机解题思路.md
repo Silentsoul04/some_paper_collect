@@ -1,4 +1,4 @@
-\> 本文由 \[简悦 SimpRead\](http://ksria.com/simpread/) 转码， 原文地址 \[mp.weixin.qq.com\](https://mp.weixin.qq.com/s/iaBfOS2oMS-rxPl1Qa7xqg)
+原文地址 \[mp.weixin.qq.com\](https://mp.weixin.qq.com/s/iaBfOS2oMS-rxPl1Qa7xqg)
 
 说明：Vulnhub 是一个渗透测试实战网站，提供了许多带有漏洞的渗透测试靶机下载。适合初学者学习，实践。DC-1 为基础入门篇，以下内容是自身复现的过程，总结记录下来，如有不足请多多指教。
 
@@ -142,23 +142,3 @@ find ./ gem -exec '/bin/sh' \\;  
 参考链接：https://www.freesion.com/article/7353791580/
 
                  https://www.cnblogs.com/lxfweb/p/13364770.html
-
-免责声明：本站提供安全工具、程序 (方法) 可能带有攻击性，仅供安全研究与教学之用，风险自负!
-
-转载声明：著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
-订阅查看更多复现文章、学习笔记
-
-thelostworld
-
-安全路上，与你并肩前行！！！！
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/uljkOgZGRjeUdNIfB9qQKpwD7fiaNJ6JdXjenGicKJg8tqrSjxK5iaFtCVM8TKIUtr7BoePtkHDicUSsYzuicZHt9icw/640?wx_fmt=jpeg)
-
-个人知乎：https://www.zhihu.com/people/fu-wei-43-69/columns
-
-个人简书：https://www.jianshu.com/u/bf0e38a8d400
-
-个人 CSDN：https://blog.csdn.net/qq\_37602797/category\_10169006.html
-
-![](https://mmbiz.qpic.cn/mmbiz_png/uljkOgZGRjcW6VR2xoE3js2J4uFMbFUKgglmlkCgua98XibptoPLesmlclJyJYpwmWIDIViaJWux8zOPFn01sONw/640?wx_fmt=png)

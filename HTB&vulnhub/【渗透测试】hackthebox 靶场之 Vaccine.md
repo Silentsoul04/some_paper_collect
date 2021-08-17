@@ -1,6 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/OhaEhzZ37GqeMdtgNaosEA)
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/eR1JusQTlickMsTDGx8RibkaToLmkC4CWzn9MAa3LYeArFFI0cQCNu84zyXWLEOHypFGGV71B40sa9HygSH8icIicw/640?wx_fmt=jpeg)
+原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/OhaEhzZ37GqeMdtgNaosEA)
 
 0x01 端口扫描
 =========
@@ -149,7 +147,7 @@ dd6e058e814260bc70e9bbdef2715849
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/eR1JusQTlickgfbiaibgelBzOJ0q5OUkFzLv8xtoiaxBH93bEtZicM7NCOxzOib2hWbspa6kdicJIIzibfORb3I2tW9Jmw/640?wx_fmt=png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/FIBZec7ucCjv9me2lz9aUeUY91fHaIhIbkc2J43Tickxbaiaqe2MANKPWZfK8FfVCu5BJpgR7Pofgs7DCYkL6c6g/640?wx_fmt=png)
+
 
   
 
@@ -159,24 +157,4 @@ END
 
   
 
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/7QRTvkK2qC7IHABFmuMlWQkSSzOMicicfBLfsdIjkOnDvssu6Znx4TTPsH8yZZNZ17hSbD95ww43fs5OFEppRTWg/640?wx_fmt=gif)
-
-●[轻轻的来 - iptables 详解](http://mp.weixin.qq.com/s?__biz=MzkwNzE5ODAwOQ==&mid=2247484685&idx=1&sn=5b12c7365ac2c12cca2177bfa02cecfe&chksm=c0ddae5bf7aa274d85dff048ea639d0f27ba838f7364a41089d8bdfea3cec9ad8c6d4d00d84a&scene=21#wechat_redirect)
-
-●[反序列化命令执行漏洞](http://mp.weixin.qq.com/s?__biz=MzkwNzE5ODAwOQ==&mid=2247484673&idx=1&sn=d515a96b358bff8a67b525e458a9c3db&chksm=c0ddae57f7aa274157ee1006c6110506ac83029b523958e7bcd9197325dfa1f39d2dd4a39c48&scene=21#wechat_redirect)
-
-●[内核提权 CVE-2021-3493 漏洞复现](http://mp.weixin.qq.com/s?__biz=MzkwNzE5ODAwOQ==&mid=2247484656&idx=1&sn=5ffc6ccde46b5d5a904e49cea17f2897&chksm=c0ddafa6f7aa26b001f61322b499752d239645895add94a719a4c2c11edc6d2ae876e8a8d814&scene=21#wechat_redirect)
-
-●[一款内网自动化横向工具：InScan 开源扫描器](http://mp.weixin.qq.com/s?__biz=MzkwNzE5ODAwOQ==&mid=2247484545&idx=1&sn=f181bae594be7ac09dd6b50c173094cd&chksm=c0ddafd7f7aa26c1f6de6b2303d1f3be1c2989aa99c0aef9c97cb16d87827295bc15fef54915&scene=21#wechat_redirect)
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/eR1JusQTlickMsTDGx8RibkaToLmkC4CWz8zNkHLeL7JtdiaXP0mar0MRibpGCB7SO4CibSV0HIosb1YU0lfK6khDbg/640?wx_fmt=jpeg)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/eR1JusQTlickMsTDGx8RibkaToLmkC4CWzQSKWgFGMnMHsYOL5D02RBZlSW7dScaicHTUn7c4fuM6OjT3DMicwQqCQ/640?wx_fmt=png)
-
-微信搜一搜
-
-![](https://mmbiz.qpic.cn/mmbiz_png/eR1JusQTlickMsTDGx8RibkaToLmkC4CWzZCg3tG3oeEoqRppB2aTTItcvZeb91phQIOgkgconYP531tNhjzxGuQ/640?wx_fmt=png)
-
-悬剑武器库
+ 

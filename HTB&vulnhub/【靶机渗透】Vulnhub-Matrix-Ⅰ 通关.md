@@ -1,18 +1,6 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/MOfXfyYLsDUsKPbXkz1iLQ)
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/clzRUb1MQV79iagNr9ib0kEETyFLJeZNL9D25e5V88oElPIliaypfvgqtVztpJoDcNLpRmyDlpicmn8UOO37WiaEMSA/640?wx_fmt=gif)
-
-  
-
-  
-
-  
+原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/MOfXfyYLsDUsKPbXkz1iLQ)
 
 一、环境配置
-
-  
-
-  
 
 Matrix-1 是一个中等难度的 boot2root 挑战，选用了电影《黑客帝国》中的一些元素，在练习中可以复习电影中的情节。
 
@@ -24,19 +12,7 @@ MD5 值：9ECF22AD48AFE814A1F68B808DF706A9
 
 网络连接：NAT 模式，192.168.92.0/24 网段
 
-  
-
-  
-
-  
-
-  
-
 二、实战演练
-
-  
-
-  
 
 **1、发现靶机**  
 
@@ -162,15 +138,3 @@ echo 是一种最常用的与广泛使用的内置于 Linux 的命令，通常�
 5、在 bash 中设置环境变量后执行 sudo 命令，获得 Matrix-1 靶机 root 权限。
 
 由于线索比较明显，从开始渗透到最终提权思路都是清晰明确。需要掌握的知识点就是使用 crunch 生成指定格式的密码和 rbash 逃逸。这两个技能点也是渗透实战中会遇到的问题。
-
-**往期精选**
-
-<table width="100%"><tbody><tr opera-tn-ra-comp="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:0"><td colspan="1" rowspan="1" opera-tn-ra-cell="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:0.td@@0" width="10.0000%"><section mpa-from-tpl="t"><section mpa-from-tpl="t"><p>1</p></section></section></td><td colspan="1" rowspan="1" opera-tn-ra-cell="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:0.td@@1" width="85.0000%"><section mpa-from-tpl="t"><section mpa-from-tpl="t"><p><a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MjM5Mzk0MDE2Ng==&amp;mid=2649603081&amp;idx=1&amp;sn=5f8b32be7edb8f86bedb48cc0db061b1&amp;chksm=be964ba089e1c2b654de55cfe2c8c700c63bf7751f04b799277f20271ffbe091a8bc10cf9488&amp;scene=21#wechat_redirect" data-itemshowtype="0" tab="innerlink" data-linktype="2">喜｜天地和兴成为首批工业互联网安全 “领航” 计划成员单位</a><br></p></section></section></td></tr><tr opera-tn-ra-comp="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:1"><td colspan="1" rowspan="1" opera-tn-ra-cell="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:1.td@@0" width="10.0000%"><section mpa-from-tpl="t"><section mpa-from-tpl="t"><p>2</p></section></section></td><td colspan="1" rowspan="1" opera-tn-ra-cell="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:1.td@@1" width="85.0000%"><section mpa-from-tpl="t"><section mpa-from-tpl="t"><p><a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MjM5Mzk0MDE2Ng==&amp;mid=2649603081&amp;idx=2&amp;sn=b55b785adce10e57f5f2544dc64fc22f&amp;chksm=be964ba089e1c2b6daec38b5e43bd8cf7e5ac190e366b9070d883d7e0fd682ee503f5aa3df70&amp;scene=21#wechat_redirect" data-itemshowtype="0" tab="innerlink" data-linktype="2">喜喜｜天地和兴荣获 2021 网信自主创新优秀产品 “补天奖”</a><br></p></section></section></td></tr><tr opera-tn-ra-comp="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:2"><td colspan="1" rowspan="1" opera-tn-ra-cell="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:2.td@@0" width="10.0000%"><section mpa-from-tpl="t"><section mpa-from-tpl="t"><p>3</p></section></section></td><td colspan="1" rowspan="1" opera-tn-ra-cell="_$.pages:0.layers:0.comps:2.col1:0.classicTable1:2.td@@1" width="85.0000%"><section mpa-from-tpl="t"><section mpa-from-tpl="t"><p><a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MjM5Mzk0MDE2Ng==&amp;mid=2649603061&amp;idx=1&amp;sn=740156939da0620ea4263fe434236c33&amp;chksm=be964c5c89e1c54aed0993777f0d053f2966d5723b92bb99ce72124679ba29da1438e6bdae6c&amp;scene=21#wechat_redirect" data-itemshowtype="0" tab="innerlink" data-linktype="2">制造业网络安全威胁</a><br></p></section></section></td></tr></tbody></table>
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/clzRUb1MQV7YB7sk0eSgoia7bSsicGoiaVguWfOMgXXmsv2nJpaQIicZRnvRExIXk0wzTnrIYp7icddHnOxBylHcw4Q/640?wx_fmt=gif)
-
-  
-
-**点击 “在看” 鼓励一下吧**
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/kw2nrMk65sdm2h1H7HL0PuJZltDnjKlKJKwx2SOicHZ6ciceNaAhompextcznbssviakCvDN8S2yJxhDVDuZhxSFw/640?wx_fmt=gif)

@@ -1,18 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/H1juasLLiJOudNFCJ7O-rQ)
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/XWPpvP3nWaibWN6Y9ia13xG1Xt3bDBqzwEASO12VFqxZKahI885LzYV85WnC2Gsk95PiabXv2ag5MzIvPCtUL9sug/640?wx_fmt=gif)
-
-喜欢就关注我吧，订阅更多最新消息
-
-  
-
-****出品｜MS08067 实验室（www.ms08067.com）****
-
-> 本文作者：**大方子**（Ms08067 实验室核心成员）
-
-大方子微信（欢迎骚扰交流）：
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XWPpvP3nWa9J2jRSibQbzf7IvBtxibSCYIOLd3vAibqtPk2u96SvbhI2Fmib59zUwRlzRfsQL5eIFzrMLOmFJAB2Zw/640?wx_fmt=jpeg)  
+ 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/H1juasLLiJOudNFCJ7O-rQ)
 
 **主机信息**
 
@@ -305,15 +291,3 @@ sudo /opt/devstuff/dist/test/test /tmp/new‐passwd /etc/passwd
 
 **靶机下载地址：http://www.five86.com/downloads/DC-9.zip**  
 
-扫描下方二维码加入星球学习
-
-加入后会邀请你进入内部微信群，内部微信群永久有效！
-
-![](https://mmbiz.qpic.cn/mmbiz_png/XWPpvP3nWa9Y7Ac6gb6JZVymJwS3gu8cniaUZzJeYAibE3v2VnNlhyC6fSTgtW94Pz51p0TSUl3AtZw0L1bDaAKw/640?wx_fmt=png) ![](https://mmbiz.qpic.cn/mmbiz_png/XWPpvP3nWa9Y7Ac6gb6JZVymJwS3gu8cT2rJYbRzsO9Q3J9rSltBVzts0O7USfFR8iaFOBwKdibX3hZiadoLRJIibA/640?wx_fmt=png)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/XWPpvP3nWaicBVC2S4ujJibsVHZ8Us607qBMpNj25fCmz9hP5T1yA6cjibXXCOibibSwQmeIebKa74v6MXUgNNuia7Uw/640?wx_fmt=png)![](https://mmbiz.qpic.cn/mmbiz_png/XWPpvP3nWa9Y7Ac6gb6JZVymJwS3gu8cRey7icGjpsvppvqqhcYo6RXAqJcUwZy3EfeNOkMRS37m0r44MWYIYmg/640?wx_fmt=png)
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XWPpvP3nWaicjovru6mibAFRpVqK7ApHAwiaEGVqXtvB1YQahibp6eTIiaiap2SZPer1QXsKbNUNbnRbiaR4djJibmXAfQ/640?wx_fmt=jpeg) ![](https://mmbiz.qpic.cn/mmbiz_png/XWPpvP3nWaicJ39cBtzvcja8GibNMw6y6Amq7es7u8A8UcVds7Mpib8Tzu753K7IZ1WdZ66fDianO2evbG0lEAlJkg/640?wx_fmt=png)  
-
-目前 35000 + 人已关注加入我们  
-![](https://mmbiz.qpic.cn/mmbiz_gif/XWPpvP3nWa9FwrfJTzPRIyROZ2xwWyk6xuUY59uvYPCLokCc6iarKrkOWlEibeRI9DpFmlyNqA2OEuQhyaeYXzrw/640?wx_fmt=gif)

@@ -1,4 +1,4 @@
-\> 本文由 \[简悦 SimpRead\](http://ksria.com/simpread/) 转码， 原文地址 \[mp.weixin.qq.com\](https://mp.weixin.qq.com/s/PD-wJMdHO0a6\_m5-3iPpkA)
+原文地址 \[mp.weixin.qq.com\](https://mp.weixin.qq.com/s/PD-wJMdHO0a6\_m5-3iPpkA)
 
 **【JDICSP 小分享第二十二期】** 
 ======================
