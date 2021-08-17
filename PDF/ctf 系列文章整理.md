@@ -1,12 +1,4 @@
-\> 本文由 \[简悦 SimpRead\](http://ksria.com/simpread/) 转码， 原文地址 \[mp.weixin.qq.com\](https://mp.weixin.qq.com/s/-1ZcJI\_a0u5Brho581oUqA)
-
-国庆假期已过，日子过的一如从前那么快。
-
-上学时盼望长大，工作后希望回到童年～
-
-以下是之前所发的 ctf 系列文章（仔细总结下来，发现发了好多文章，学习使人快乐)：
-
-CTF 入门
+\> 本文由 \[简悦 SimpRead\](http://ksria.com/simpread/) 转码， 原文地址 \[mp.weixin.qq.com\]
 
 **ctf-web：**
 
@@ -169,20 +161,111 @@ CTF 入门
 [记一次 AWD 比赛](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247486943&idx=4&sn=18e79e0fab704f34f7e8cb8f3ee822f1&chksm=f9e06284ce97eb926a2f67836698a85932a9e29ef6083fd321d1754d57d6546c58ed03ccd225&scene=21#wechat_redirect)
 
 
-系列文章会定期更新～  
 
-之前分享过的资料：
+**流量相关文章：**
 
-ctf web/ctf misc 学习资料，私聊公众号发送 “ctf 学习资料” 会自动回复你下载链接；
+[【CTF web入门-实用篇】ctf之流量分析](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247486214&idx=2&sn=d573492d7ea7f1e00b63cc9a2133aad8&chksm=f9e0645dce97ed4b67227f0f975dbb9a63ae0d574968b3d36271ffa752909da6e353aaac470e&scene=21#wechat_redirect)
 
-hw 期间分享过溯源思维脑图，私聊公众号发送 “获取高清图” 会自动回复你下载链接；
+[AWD流量分析](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247486943&idx=3&sn=4d7fda82c3c46caffbac94e41c3acd0a&chksm=f9e06284ce97eb92fe53d012da1b1e8083e49c79dbc7057d781bc182a06ea76b0ac923a44288&scene=21#wechat_redirect)
 
-hw 期间分享的个人收集的子域名字典，私聊公众号发送 “获取子域名字典” 会自动回复你下载链接；
+[CTF web 题型流量分析（ctf 之流量分析）-第三课 工具使用-流量分析](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247487312&idx=1&sn=90b01fd012dddff5bba8bfd3a8bd9503&chksm=f9e0600bce97e91dac4acbfd7f033a80e353519d39fa7444e78a352990bcfc2d2855013ac3a9&scene=21#wechat_redirect)
 
-一如既往的学习，一如既往的整理，一如即往的分享。感谢支持![](https://mmbiz.qpic.cn/mmbiz_png/p5qELRDe5icl7QVywL8iaGT0QBGpOwgD1IwN0z9JicTRvzvnsJicNRr2gRvJib6jKojzC5CJJsFPkEbZQJ999HrH5Gw/640?wx_fmt=png)
+[HW防守之流量分析](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247487524&idx=1&sn=3a9478ef582afe1c6b94269ca50acd06&chksm=f9e07f7fce97f669b416c4635d58dc6839b4c7ac7a1d9d15598b6304acd65c6c6638d9d305d3&scene=21#wechat_redirect)
 
-****扫描关注 LemonSec****  
+[HTTP攻击流量分析+.git源码泄露](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247487582&idx=2&sn=d39b4230f419e3d5cf623aeeb75fc1f2&chksm=f9e07f05ce97f6138937ad09bc6caec5b5c30f46157c7992f15a423e5b59e60417a062ce6f3f&scene=21#wechat_redirect)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/p5qELRDe5icncXiavFRorU03O5AoZQYznLCnFJLs8RQbC9sltHYyicOu9uchegP88kUFsS8KjITnrQMfYp9g2vQfw/640?wx_fmt=png)
+[防守方应具备的技能-SMTP协议分析及流量还原](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247487889&idx=1&sn=c8045322c82fd4773b804b6295406889&chksm=f9e07ecace97f7dcf28cb8e3a1118bcd31d9b81d3747cb9aa9710b5197da05a99b9b88613e87&scene=21#wechat_redirect)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/p5qELRDe5icnAsbXzXAVx0TwTHEy4yhBTShsTzrKfPqByzM33IVib0gdPRn3rJw3oz2uXBa4h2msAcJV6mztxvjQ/640?wx_fmt=png)
+[恶意流量分析训练一](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247488712&idx=2&sn=15917826b19e87c4eef23bae89197f7b&chksm=f9e07b93ce97f285a695d87359c68d384fc88ae6d4b9d1820084199607324e41d25435e4724e&scene=21#wechat_redirect)
+
+[恶意流量分析训练二](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247488745&idx=1&sn=3d73be29049d193a95bbcb26b3d947ea&chksm=f9e07bb2ce97f2a4005151f32c769f1194318780f73165d0b0b8af5db4a17734a978dca68937&scene=21#wechat_redirect)
+
+[恶意流量分析训练三](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247488770&idx=1&sn=0668f43435736041a38f5bccdbc652db&chksm=f9e07a59ce97f34f413598058b0c4e62d721f261d25e17a519ea4f84a46298433d57b36281ed&scene=21#wechat_redirect)
+
+[恶意流量分析训练四](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247488821&idx=2&sn=c0adc63f0fb054e3a38866917df72301&chksm=f9e07a6ece97f378f92cf0c1a38c073579d0102ec572b57b10fa4c9733277b66c96a0a5c7004&scene=21#wechat_redirect)
+
+[恶意流量分析训练五](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247488847&idx=1&sn=6e70a2fbf1ac32bc236f0eb80ad704ce&chksm=f9e07a14ce97f302d73ac1e2d7905c9a685f0615dc4e5c2eb113a9efa0dfa310fb46f35b812d&scene=21#wechat_redirect)
+
+[恶意流量分析训练六](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247488885&idx=1&sn=d5887cb7ea4fd7336b8ea71acfd79523&chksm=f9e07a2ece97f338475c530f1531802b011679b154cf1143f36f04ff5b20f4b35ebe4215cd2e&scene=21#wechat_redirect)
+
+[Maltrail恶意流量检测系统](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247488885&idx=2&sn=f4269905906d208d929b3a552c1e29c2&chksm=f9e07a2ece97f3387edfd462dd0a5163c5a281a9f729e60b1a506caf88fbd5e29b1a62eb2050&scene=21#wechat_redirect)
+
+[【HW前工具推荐】HoneyBot：一款功能强大的网络流量捕捉与分析框架](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489333&idx=2&sn=89fb855c2cdb3cdae44745caf13f1b09&chksm=f9e0786ece97f1781f2ab6df59f4dde342044c73c5e320db03a216f81f0c5f95ab8295a2d2a8&scene=21#wechat_redirect)
+
+[14个网络管理员必备的最佳网络流量分析工具](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489687&idx=1&sn=ba099889953171cde33547bd340c3672&chksm=f9e077ccce97fedac24e72a4e8921ad659d04d5ba6d779cd5cfdccd6d1f0a62b1d91fa8706c0&scene=21#wechat_redirect)
+
+
+
+**内网相关文章：**
+
+[蜜罐调研与内网安全](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247492808&idx=1&sn=7304e66bc4c333b3bf50e6fd711d6661&chksm=f9e38b93ce94028517bf5b1575e8b52f9699d8fc8af0f3bdc1f6f95b3fb2e2ebb3010e137ba8&scene=21#wechat_redirect)
+
+
+
+**内网信息收集：**
+
+[渗透测试 | 内网信息收集](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247490992&idx=1&sn=4911077a39d6540b061f82edc25e65d8&chksm=f9e072ebce97fbfda63e09f51be7c1262457860dd99a94f8ea1925249944d46a8a1d0b0ab4bc&scene=21#wechat_redirect)
+
+[内网渗透之信息收集](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247490681&idx=1&sn=dfa090e215e4843768c5a6a19bd36c3f&chksm=f9e07322ce97fa34401407b9bad324b1bb266ba64835438ad1d5eb7a9fb8ef7a6fb59b45d2a1&scene=21#wechat_redirect)
+
+
+
+**内网渗透：**
+
+[内网渗透-代理篇](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247490681&idx=2&sn=5b846aeb86e35fda0dd56823da0d1a7b&chksm=f9e07322ce97fa34a7454357400524ae8e8358fd2f64601cc5661c53f06f026c4b66960e6322&scene=21#wechat_redirect)
+
+[【内网渗透】——隐藏通信隧道技术之传输层隧道技术](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247490070&idx=1&sn=64df276f4663b044c1af58430ad65ef5&chksm=f9e0754dce97fc5b901a181c3ec8463fac80620c9b424042dbad0ab82e2d3fb119cfd5c88dea&scene=21#wechat_redirect)
+
+[内网渗透之常见隧道转发](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247490070&idx=2&sn=632d2cfbeeb7da16f76d4098d6bab01a&chksm=f9e0754dce97fc5bc71c62020dcf454f7286e7438140549d3d88908e4d9a4584772dd3faadf3&scene=21#wechat_redirect)
+
+[【内网渗透】—— 隐藏通信隧道技术之网络层隧道技术](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247490021&idx=1&sn=43a4159bee2e30dabcecf41c72cf8236&chksm=f9e076bece97ffa888b4c2e60f47bff59107f555dc1d88684034c3d17f252065a53ecc4c701f&scene=21#wechat_redirect)
+
+[【内网渗透】——隐藏通信隧道技术之应用层隧道技术](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247490004&idx=1&sn=25a184a8d82403c89b97a4eb47c8f2fa&chksm=f9e0768fce97ff996f3c14dec2ee06ee02538fd388d03f037f823e5496804eb70978c1a0974d&scene=21#wechat_redirect)
+
+[探测内网存活主机](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489984&idx=1&sn=cd86717dddd02632bc45c18487fe275c&chksm=f9e0769bce97ff8de869c0330bf55993fdb92e7aaecba88c2fb88b5f706e66a790e204c0cf5f&scene=21#wechat_redirect)
+
+[内网渗透实战-IPC$入侵之远程控制](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489752&idx=1&sn=ef93b3e1c9f0477c2439ffab0a08a3a9&chksm=f9e07783ce97fe9530f877e75c1f85752ed8ea462ca49940d4a7f291fb9121d8fcdd77adb165&scene=21#wechat_redirect)
+
+[内网渗透之PTH&PTT&PTK](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489721&idx=1&sn=fd560f5c4e39f9d157cd76f84cd89a9d&chksm=f9e077e2ce97fef43210c921379e80c49b1387e42e256b0b2f7493d609cb9d1f61f620306ab9&scene=21#wechat_redirect)
+
+[内网渗透之IPC$入侵](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489721&idx=2&sn=a1de7ef72fc4508c3d347fdcc645dfa6&chksm=f9e077e2ce97fef403bc3ce06991afe2a1a4f605e8c5224d1d650856b1ab60a5fa3e8c0efcbe&scene=21#wechat_redirect)
+
+[内网渗透之域关系探测神器：Bloodhound](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489356&idx=2&sn=939b7040130b3099a33a8e8fe9e953f0&chksm=f9e07817ce97f101c4171fbabcae90f5591f184d10ca601e142ed0661f83e6d10ed3a4d81dbf&scene=21#wechat_redirect)
+
+[利用NetBIOS简介快速探测内网](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489234&idx=2&sn=f1d423dd6ea4d6fcac0e64a58854363b&chksm=f9e07989ce97f09f237034bb750e5318b934a20f17b72515d514d8ce0765bebe5960da32c32a&scene=21#wechat_redirect)
+
+[内网渗透思路简单介绍](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489209&idx=1&sn=a962decde51ac19213898471798de879&chksm=f9e079e2ce97f0f4fbbd70508390df2182d6e206ed621e994ff2aa724e4c13867e5826794b2b&scene=21#wechat_redirect)
+
+[内网端口转发工具](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489209&idx=2&sn=70213f17bb38304c9fea417b326cfb39&chksm=f9e079e2ce97f0f4ff7787e45cf9627542ac5fb45df9c4dcecd9f40d91dfa042f3c8f7354ba7&scene=21#wechat_redirect)
+
+[内网渗透之常见隧道转发](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489128&idx=1&sn=2d2fe8bda1a3988e1b4e4a55d671c2a0&chksm=f9e07933ce97f025edebbafc5dee3d80e11f929f59fc37d249a247f0e19fa49d153f1a3ac58c&scene=21#wechat_redirect)
+
+[浅谈内网渗透思路](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247487205&idx=1&sn=726b6f3d650ecada1b05a935d602275c&chksm=f9e061bece97e8a8b4f2af3d67bffcd028bcae97cd47f9ee1aa26b7f4ed5fc843df1bbbd2bc1&scene=21#wechat_redirect)
+
+[一次简单的漫游内网附带对jboss安全性的讨论(转)](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247484838&idx=2&sn=f343769b22774e25b3aa7db0676cf299&chksm=f9e06afdce97e3eb29e6d8e51dcef7b7720cb5566896f2d645e18d42e78a8cc6f8f6f18e26cd&scene=21#wechat_redirect)
+
+[内网渗透之常见命令](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247484492&idx=1&sn=8e2d419e38bbf9f8291774b34ae2ea0e&chksm=f9e06b17ce97e201d251fdd638e921dbc6ee9a4dcbeeb9756fad301d4ce3d6044fd15d2d3b93&scene=21#wechat_redirect)
+
+[内网渗透、域渗透常用DOS命令](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247483875&idx=1&sn=1a2709f9f92ba75d28c38bf039f06072&chksm=f9e06eb8ce97e7aec2b01effd59feb59ef58e3204d277db2f6ade8d0484b9c49c2e8e939ef92&scene=21#wechat_redirect)
+
+[nmap结合metasploit入侵Xp 内网渗透](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247483856&idx=2&sn=9bd108451a6bb3fa6ee2e49e20f82ad4&chksm=f9e06e8bce97e79dc8a9fe4fbbfad144cd18a80a377c93d8ccea10261f045ab84b8a5f8a0399&scene=21#wechat_redirect)
+
+
+
+**域控：**
+
+[域控制器DSRM账户安全防护](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489603&idx=1&sn=0e78b1c4e9c53dbcd0874af98390c31f&chksm=f9e07718ce97fe0e341d4376d550db120505bed8d9f4db7be3335cd71caff28e3647a859643b&scene=21#wechat_redirect)
+
+[域渗透学习](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247490680&idx=2&sn=51e8085f97ef736498d1cd3f6bf7a996&chksm=f9e07323ce97fa35fbce16e347876f8809eaba6e1756a86792690a8cc970eb43223e814d985a&scene=21#wechat_redirect)
+
+[域控制器DSRM账户安全防护](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489603&idx=1&sn=0e78b1c4e9c53dbcd0874af98390c31f&chksm=f9e07718ce97fe0e341d4376d550db120505bed8d9f4db7be3335cd71caff28e3647a859643b&scene=21#wechat_redirect)
+
+[AD域SSP安全防护](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489603&idx=2&sn=78298240cf135f6392d2707cb2ae80aa&chksm=f9e07718ce97fe0e1895fb9c29252464cee400f58da2581d25fabc3561f3fcf21abe25a290f6&scene=21#wechat_redirect)
+
+[域渗透：使用蜜罐检测出Kerberoast攻击](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489445&idx=1&sn=9eb83be64df18da0877feeb01d28a195&chksm=f9e078fece97f1e8822d7105d70bd835e93d63e335730da83c70da52ffde343db523364f5904&scene=21#wechat_redirect)
+
+[内网渗透之域关系探测神器：Bloodhound](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489356&idx=2&sn=939b7040130b3099a33a8e8fe9e953f0&chksm=f9e07817ce97f101c4171fbabcae90f5591f184d10ca601e142ed0661f83e6d10ed3a4d81dbf&scene=21#wechat_redirect)
+
+[内网渗透、域渗透常用DOS命令](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247483875&idx=1&sn=1a2709f9f92ba75d28c38bf039f06072&chksm=f9e06eb8ce97e7aec2b01effd59feb59ef58e3204d277db2f6ade8d0484b9c49c2e8e939ef92&scene=21#wechat_redirect)
+
+[AD域SSP安全防护](http://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247489603&idx=2&sn=78298240cf135f6392d2707cb2ae80aa&chksm=f9e07718ce97fe0e1895fb9c29252464cee400f58da2581d25fabc3561f3fcf21abe25a290f6&scene=21#wechat_redirect)

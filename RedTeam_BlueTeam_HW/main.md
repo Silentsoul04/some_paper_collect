@@ -822,7 +822,6 @@
 - https://github.com/ismailtasdelen/xss-payload-list XSS 漏洞 Payload 列表
 - https://github.com/beefproject/beef 经典的 xss 利用框架
 - https://github.com/samdenty99/injectify 类似 beef 的 xss 利用框架
-- https://github.com/firesunCN/BlueLotus_XSSReceiver 蓝莲花战队为 CTF 打造的 xss 利用框架
 - https://github.com/NytroRST/XSSFuzzer 根据特定标签生成 xss payload
 - https://github.com/evilcos/xssor2 余弦写的 xss 利用辅助工具
 - https://github.com/UltimateHackers/XSStrike 可识别并绕过 WAF 的 XSS 扫描工具

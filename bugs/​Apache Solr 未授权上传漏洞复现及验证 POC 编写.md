@@ -1,20 +1,14 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/GRc9kNBvbyafTcN8bl6iAg)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/ewlUV3LaXXKZzibMiaFbaRZU6aiab48xwejV3o9ibSoS2Q0SKGBVDAl5MFUianlLIASDFqpnnuxbcsjuNq6biaOG6S2w/640?wx_fmt=png)
+
 
 声明：
 
 由于传播、利用此文所提供的信息而造成的任何直接或者间接的后果及损失, 均由使用者本人负责, 雷石安全实验室以及文章作者不为此承担任何责任。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/3icWbWr2yiaiaF47iamK55D8c8TnMVeW3ibLicIBBczVkkw2AJ3UzZ5w6BYH37JGibJCZ4asmyz9bb6zVrErEH4b5upibQ/640?wx_fmt=png)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/4xbpwTPsKpvrMAjQh0ZSzAgpQnspgeREBn3BiaSlrpv7ia66eQqiawN53FU4jRJicpIsMQCk8vxohibFicSbTAGvw0jg/640?wx_fmt=png)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/hhIiaBr3rueicPhSibIicCN8CkHy9hPib2OtPibPPRzx6zlQpJ7NBrbPvRP0UmWPN2Hwvhvib82IBK4hegoREsXo77KicA/640?wx_fmt=png)
-
 1、相关简介
 
-![](https://mmbiz.qpic.cn/mmbiz_png/sAEjlHGCAlHzHa8XFM53e3brD9RT318SzvWibG7cOhmx9QuKGtTE0Kjxy0ibTMMalbgM3fNgduPv08n6R80GiczXA/640?wx_fmt=png)
+
 
 **1.1、漏洞概述**
 
@@ -32,13 +26,8 @@ Apache Solr 7.0.0 -7.7.3
 
 Apache Solr 8.0.0 -8.6.2
 
-![](https://mmbiz.qpic.cn/mmbiz_png/4xbpwTPsKpvrMAjQh0ZSzAgpQnspgeREBn3BiaSlrpv7ia66eQqiawN53FU4jRJicpIsMQCk8vxohibFicSbTAGvw0jg/640?wx_fmt=png)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/hhIiaBr3rueicPhSibIicCN8CkHy9hPib2OtPibPPRzx6zlQpJ7NBrbPvRP0UmWPN2Hwvhvib82IBK4hegoREsXo77KicA/640?wx_fmt=png)
-
 2、漏洞复现
 
-![](https://mmbiz.qpic.cn/mmbiz_png/sAEjlHGCAlHzHa8XFM53e3brD9RT318SzvWibG7cOhmx9QuKGtTE0Kjxy0ibTMMalbgM3fNgduPv08n6R80GiczXA/640?wx_fmt=png)
 
 **2.1、漏洞环境**
 
@@ -56,7 +45,7 @@ win10,IP 地址：192.168.94.130
 
 kali
 
-![](https://mmbiz.qpic.cn/mmbiz_png/aia5bEeichiciaZrhGA3vlCjw9dNd3gcv3KuzlBC7EW6tXSOVlRiaxRmcVYAFa1XEibbcia3JOXoJyuBABTWIqbrW0bkw/640?wx_fmt=png)
+
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/RXib24CCXQ0icgJnwz55vaCiatpsqriaW2GZ01FvRCNODcaFwa35ObXRoJxVF3aPzAljmwqB7mRyHn2YJdMzxtSHCw/640?wx_fmt=png)
 
@@ -128,13 +117,7 @@ http://192.168.94.130:8983/solr/mytest2/select?q=1&&wt=velocity&v.template=custo
 
 whoami 执行成功了, 漏洞复现成功
 
-![](https://mmbiz.qpic.cn/mmbiz_png/4xbpwTPsKpvrMAjQh0ZSzAgpQnspgeREBn3BiaSlrpv7ia66eQqiawN53FU4jRJicpIsMQCk8vxohibFicSbTAGvw0jg/640?wx_fmt=png)
-
-![](https://mmbiz.qpic.cn/mmbiz_png/hhIiaBr3rueicPhSibIicCN8CkHy9hPib2OtPibPPRzx6zlQpJ7NBrbPvRP0UmWPN2Hwvhvib82IBK4hegoREsXo77KicA/640?wx_fmt=png)
-
 3、编写验证 POC
-
-![](https://mmbiz.qpic.cn/mmbiz_png/sAEjlHGCAlHzHa8XFM53e3brD9RT318SzvWibG7cOhmx9QuKGtTE0Kjxy0ibTMMalbgM3fNgduPv08n6R80GiczXA/640?wx_fmt=png)
 
 **3.1、重新搭建环境**
 
@@ -154,7 +137,7 @@ solr stop -p 8983
 
 先编写一个能验证漏洞存在的简单 POC, 如下：
 
-```
+```python
 #!/usr/bin/python3
 #coding=utf-8
 
@@ -213,18 +196,13 @@ print('程序执行结束')
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/RXib24CCXQ0icgJnwz55vaCiatpsqriaW2GZuPlIiaE30vibsxQ4usDaO9j64rahDHPjXffbiaR98tJ6GzUQMd44gEcXQ/640?wx_fmt=png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/4xbpwTPsKpvrMAjQh0ZSzAgpQnspgeREBn3BiaSlrpv7ia66eQqiawN53FU4jRJicpIsMQCk8vxohibFicSbTAGvw0jg/640?wx_fmt=png)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/hhIiaBr3rueicPhSibIicCN8CkHy9hPib2OtPibPPRzx6zlQpJ7NBrbPvRP0UmWPN2Hwvhvib82IBK4hegoREsXo77KicA/640?wx_fmt=png)
+
+
 
 4、总结
 
-![](https://mmbiz.qpic.cn/mmbiz_png/sAEjlHGCAlHzHa8XFM53e3brD9RT318SzvWibG7cOhmx9QuKGtTE0Kjxy0ibTMMalbgM3fNgduPv08n6R80GiczXA/640?wx_fmt=png)
+
 
 本次漏洞复现中遇到不少问题, 比如其他大佬的漏洞复现文章中, 有一个根据 UPLOAD 的配置, 创建一个新的配置的命令, 这里并没有执行也复现成功了。然后每次验证过漏洞存在时, 都需要重新搭建环境等等。。菜鸟继续加油哇～
 
-end
-
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/RXib24CCXQ0icgJnwz55vaCiatpsqriaW2GZ7rRw3kbvpDFicsKcLcp9Q7tYiaMwLANvcHAoByTiaGaus4HBukgfIXt9g/640?wx_fmt=png)

@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/9n9TheaNUh39FNttRM4kHA)
+ 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/9n9TheaNUh39FNttRM4kHA)
 
 fofa 语句：  
 
@@ -26,10 +26,3 @@ title="无线 smartWeb-- 登录页面"
 
 http://xxx.xxx.xxx.xxx/web/xml/webuser-auth.xml
 
-参考链接：  
-
-https://mp.weixin.qq.com/s/nvk4Nu8q8AxeuPDPygllWA
-
-当然更多渗透测试的内容，也可以到星球里学习  
-
-![](https://mmbiz.qpic.cn/mmbiz_png/NOwiaSy3Kbv2TUW3IicCMgLhsAW8cEUB8FKV3NktCRVJ7W14sblwk73stL4P86DViaCoG069BgrcIFVZShmW6ZbMA/640?wx_fmt=png)

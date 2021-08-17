@@ -1,4 +1,4 @@
-\> 本文由 \[简悦 SimpRead\](http://ksria.com/simpread/) 转码， 原文地址 \[www.cnblogs.com\](https://www.cnblogs.com/-mo-/p/12692559.html)
+原文地址 \[www.cnblogs.com\](https://www.cnblogs.com/-mo-/p/12692559.html)
 
 ### 0x01 简介
 
@@ -12,8 +12,6 @@ Windows PowerShell 是一种命令行外壳程序和脚本环境，使命令行�
 
 ```
 forfiles /p %COMSPEC:~0,19% /s /c "@file -noe" /m po\*l.\*e
-
-
 ```
 
 ![](https://img2020.cnblogs.com/blog/1561366/202004/1561366-20200414084844354-1663760454.png)
@@ -22,15 +20,13 @@ forfiles /p %COMSPEC:~0,19% /s /c "@file -noe" /m po\*l.\*e
 
 用 c++ 的 system 函数库去调用 (待完善)：
 
-```
+```c
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
 system("powershell");
 return 0;
 }
-
-
 ```
 
 #### 2.3 SyncAppvPublishingServer

